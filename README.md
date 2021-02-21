@@ -12,17 +12,9 @@ Once a search has been made the user's recent searches populate in a <div> secti
 This assignment was challenging at first glance but after some psuedo-coding and application of prior knowledge, it became easier to deal with. My code isn't perfect though, there is likely a cleaner way to display the information from the API. Still, I'm proud of the this turned out.
 
 ## Technologies Used
-Languages: HTML, CSS, Javascript, jQuery, jSON
+Languages: Markdown, Javascript, Node.js
 
-This assignment made use of the Open Weather Map API, specifically the Five Weather Day Forecast API. 
-
-Documentation: https://openweathermap.org/forecast5
-
-The Moment JS library was utilized to retrieve the current date.
-
-Documentation: https://momentjs.com/docs/
-
-The Bootstrap CSS library was used to create responsive and styled elements on the page.
+Packages: Inquirer, util, fs
 
 ## Links
 https://uzobeki.github.io/Weather-Dashboard/
