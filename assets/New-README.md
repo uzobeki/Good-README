@@ -15,7 +15,7 @@
   Creates professional README documents
 
   ## Installation
-  1. Start 2. 3. 4. Finish
+  1.Start 2.  3.  4.Finish
 
   ## Usage
   No examples
@@ -35,6 +35,7 @@
   Github: [uzobeki](https://github.com/uzobeki)
 
   Email: uobeki.40@gmail.com
+  
   ---
   This README was created by the super awesome, super simple GOOD README generator 
   

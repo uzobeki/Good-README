@@ -34,6 +34,7 @@ function generateMarkdown(data) {
   Feel free to reach out to me through the following contact methods for any questions or concerns.\n
   Github: [${data.username}](https://github.com/${data.username})\n
   Email: ${data.email}
+  
   ---
   This README was created by the super awesome, super simple GOOD README generator 
   

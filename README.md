@@ -12,8 +12,8 @@ Once invoked, the command line will the user ask a series of questions that will
 
 ## Preview
 
-![App Screenshot](/assets/Weather-Dashboard.png)
-![App Screenshot](/assets/WD-1.png)
+![README Example](assets/gif/READ-ME.gif)
+
 
 
 ## Thoughts and Notes :thinking:
@@ -25,7 +25,8 @@ Languages: Markdown, Javascript, Node.js
 Packages: Inquirer, util, fs
 
 ## Links
-https://github.com/uzobeki/Good-README
+Repo: https://github.com/uzobeki/Good-README
+Example README: https://github.com/uzobeki/Good-README/blob/main/assets/New-README.md
 
 ## Author
 Uzochukwu Obeki
