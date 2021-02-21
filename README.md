@@ -1,15 +1,23 @@
 # Good-README
 ## Task :man_technologist:
-For this assignment, we were tasked with creating a Weather Dashboard application that changes dynamically. The application uses jQuery to make an AJAX call to the Open Weather Map API to retrieve information such as City coordinates, Temperature, Humidity, Wind Speed, and even icons representing current weather condtions. The information from that call is then appended to the HTML with jQery.
+For this assignment, we were tasked with creating a command line application using Node.js. The purpose of the application is to generate a README based on user inputs.
 
-Once a search has been made the user's recent searches populate in a <div> section underneathe the search bar.
+The generator can be invoked by using the command: 
+
+```bash
+node index.js
+```
+
+Once invoked, the command line will the user ask a series of questions that will inquire (see what I did there?...) about what the user wants included in their README.
+
+## Preview
 
 ![App Screenshot](/assets/Weather-Dashboard.png)
 ![App Screenshot](/assets/WD-1.png)
 
 
 ## Thoughts and Notes :thinking:
-This assignment was challenging at first glance but after some psuedo-coding and application of prior knowledge, it became easier to deal with. My code isn't perfect though, there is likely a cleaner way to display the information from the API. Still, I'm proud of the this turned out.
+This assignment was very interesting. Node and the command line are very powerful frameworks to utilize. From creating a file to taking in user input, I would have never thought I could do anything like that beforehand.
 
 ## Technologies Used
 Languages: Markdown, Javascript, Node.js
@@ -17,7 +25,7 @@ Languages: Markdown, Javascript, Node.js
 Packages: Inquirer, util, fs
 
 ## Links
-https://uzobeki.github.io/Weather-Dashboard/
+https://github.com/uzobeki/Good-README
 
 ## Author
 Uzochukwu Obeki
