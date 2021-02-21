@@ -25,7 +25,7 @@ Languages: Markdown, Javascript, Node.js
 Packages: Inquirer, util, fs
 
 ## Links
-Repo: https://github.com/uzobeki/Good-README
+Repo: https://github.com/uzobeki/Good-README <br>
 Example README: https://github.com/uzobeki/Good-README/blob/main/assets/New-README.md
 
 ## Author
